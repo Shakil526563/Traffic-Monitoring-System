@@ -1,0 +1,7 @@
+# Essential packages for traffic monitoring
+ultralytics
+opencv-python
+numpy
+pandas
+easyocr
+deep-sort-realtime
