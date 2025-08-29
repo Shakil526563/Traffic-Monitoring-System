@@ -1,7 +1,6 @@
 # Traffic Monitoring System - Simplified
 
 A streamlined computer vision system for traffic monitoring using Python and YOLO models.
-
 ## Features
 
 - 🚗 **Vehicle Detection**: Real-time detection using YOLOv8
