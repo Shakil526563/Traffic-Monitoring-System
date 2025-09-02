@@ -192,7 +192,7 @@ class TrafficMonitor:
         if len(self.data_batch) >= self.batch_size:
             self.flush_data_batch()
         
-        # Log violations immediately for alerts
+       
         if is_violation:
             violation_data = {
                 'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
