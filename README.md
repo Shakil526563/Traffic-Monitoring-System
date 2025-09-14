@@ -1,5 +1,7 @@
 # Traffic Monitoring System - Simplified
 
+Video link:https://www.linkedin.com/posts/shakil-rana-a1b383256_yolov8-computervision-ai-activity-7352747940949475329-Pb60?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8PJfcBjHerZVrwS1yEhHVr1CSY17SG6gY
+
 A streamlined computer vision system for traffic monitoring using Python and YOLO models.
 ## Features
 
