@@ -5,7 +5,9 @@ Video link:
 https://www.linkedin.com/posts/shakil-rana-a1b383256_yolov8-computervision-ai-activity-7352747940949475329-Pb60?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8PJfcBjHerZVrwS1yEhHVr1CSY17SG6gY
 
 
-A streamlined computer vision system for traffic monitoring using Python and YOLO models.
+This project is an efficient traffic monitoring system built for real-time use. It detects and tracks vehicles in video, estimates their speed, reads license plates with OCR, and logs both normal records and speed violations to CSV files. The design emphasizes low latency and stable performance, making it suitable for safety-focused scenarios like ADAS-style monitoring where timely and reliable processing is important.
+
+
 ## Features
 
 - 🚗 **Vehicle Detection**: Real-time detection using YOLOv8
